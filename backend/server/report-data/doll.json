@@ -1,0 +1,95 @@
+{
+  "slug":"doll","name":"DOLL DISTRIBUTING","tagline":"Building Brands. Building Relationships.","location":"Des Moines, Iowa","foundedYear":1965,
+  "lede":{"legalName":"Doll Distributing, LLC","founded":"1965, Hastings, Nebraska","hq":"Des Moines, Iowa","industry":"Beer & beverage wholesale distribution (Anheuser-Busch, craft, imports, non-alcoholic)","coverage":"Four states — Iowa, Minnesota, South Dakota, North Dakota","size":"~480 employees; ~2,000+ accounts; 95 supplier partners","narrative":"Doll Distributing is a third-generation, family-owned beverage wholesaler founded in 1965 by Merlin and Edith Doll, who sold their family home to buy a single beer distributorship after Merlin lost his brewery job on Christmas Eve. From a starting inventory of 2,260 cases of Anheuser-Busch and seven tap accounts, the company has grown into the largest beer distributor in Iowa and one of the largest in the Midwest. Led today by CEO Mark Doll of the second generation — with siblings Tami, Jeff, Scott and Jay — Doll has scaled through more than a dozen acquisitions and, in a dramatic 2025-2026 expansion, doubled its geographic footprint into South Dakota and North Dakota to become a four-state operation. A rising third generation (Lauren Doll-Sheeder, Andrew, George and Gus Doll) is now stepping into the business under the company motto 'Building Brands. Building Relationships.'"},
+  "facts":[
+    {"num":"480","sup":"","label":"team members across four states"},
+    {"num":"95","sup":"","label":"supplier partners, ~2,000+ accounts"},
+    {"num":"4","sup":"","label":"states: Iowa, Minnesota, the Dakotas"},
+    {"num":"60","sup":"yrs","label":"family-owned since 1965, third generation"}
+  ],
+  "timeline":[
+    {"year":"1965","title":"A home sold to buy a beer business","body":"After Merlin Doll loses his job at Storz Brewing in Omaha on Christmas Eve, he and wife Edith sell their family home and purchase Simmons Distributing of Hastings, Nebraska — a starting inventory of 2,260 Anheuser-Busch cases, 33 Budweiser kegs, 355 Goetz cases and seven tap accounts."},
+    {"year":"1966","title":"Crossing into Iowa — Council Bluffs","body":"On December 23, 1966 Merlin and Edith acquire Michaels Distributing of Council Bluffs, Iowa, inventorying 2,179 Budweiser cases and 152 Budweiser kegs, establishing the Iowa base. First-year sales reach ~40,000 cases of Anheuser-Busch and ~12,000 cases of Pabst Blue Ribbon and Grain Belt."},
+    {"year":"1973","title":"Merlin innovates a beverage trailer","body":"Servicing 24 tap accounts with three trucks and a van, Merlin Doll develops a new beverage delivery trailer — an early sign of the operations focus that would define the company."},
+    {"year":"1987","title":"Second generation buys the company","body":"Merlin sells the business to his five children — Jeff, Mark, Tami, Scott and Jay Doll — who take ownership and begin the next chapter of growth. Mark Doll later becomes CEO."},
+    {"year":"1988","title":"Red Oak territory added","body":"On April 21, 1988 Doll acquires the Red Oak, Iowa territory, expanding from 3 to 11 counties and adding roughly 540 customers."},
+    {"year":"2006","title":"Nesbit merger creates the Des Moines hub","body":"On December 15, 2006 Doll Distributing LLC combines operations with Fred Nesbit Distributing Company in Des Moines, jumping to 21 counties and 2,000+ customers and establishing Des Moines as headquarters."},
+    {"year":"2007","title":"Grinnell Beverage Company acquired","body":"On November 9, 2007 Doll acquires Grinnell Beverage Company, adding the Grinnell, Iowa territory to its central-Iowa footprint."},
+    {"year":"2010","title":"Spencer and Britt — northern Iowa","body":"On December 10, 2010 Doll acquires Whittenburg Distributing of Spencer, Iowa and Kabrick Distributing of Britt, Iowa, establishing the Spencer branch and pushing into northern Iowa."},
+    {"year":"2015","title":"Into Minnesota with Hagen","body":"On May 1, 2015 Doll acquires Hagen Distributing of Worthington, Minnesota, becoming a two-state distributor and opening the Worthington branch."},
+    {"year":"2015","title":"Doll Craft Specialties formed","body":"As craft beer surges, Doll stands up Doll Craft Specialties — a dedicated team of craft-industry veterans handling brand education, tastings and events for premium and import partners."},
+    {"year":"2022","title":"River-to-River craft expansion","body":"On January 1, 2022 Doll acquires a competitive craft portfolio enabling distribution clear across Iowa from the Missouri River to the Mississippi River — 'River to River' coverage."},
+    {"year":"2023","title":"Eastern Iowa craft footprint","body":"Doll formally expands its Iowa territory in 2023, layering a vast craft portfolio onto the eastern half of the state and reinforcing its position as Iowa's largest distributor (41 counties, ~23,197 sq mi at the time)."},
+    {"year":"2024","title":"'Decide to Ride' wins state safety award","body":"Doll's 'Decide to Ride' program — partnering with Anheuser-Busch and Uber to offer ride vouchers — earns the Iowa Governor's Traffic Safety Bureau Community Engagement award; the 2023 effort helped 250+ people get home safely."},
+    {"year":"2025","title":"Into South Dakota — third state","body":"On December 5, 2025 Doll acquires Ellwein Brothers (Huron) and John A. Conkling Distributing (Yankton, founded 1939), moving into South Dakota with branches in Huron and Yankton."},
+    {"year":"2026","title":"Into North Dakota — fourth state","body":"On January 2, 2026 Doll takes over McQuade Distributing of Bismarck (founded 1947) and Valley Sales/Distributing of Jamestown, ND, becoming a four-state distributor and pledging to continue the McQuade Charity Softball Tournament."},
+    {"year":"2026","title":"Four states, ~480 employees","body":"Following the Dakotas expansion, Doll operates distribution centers in Des Moines, Council Bluffs and Spencer (IA), Worthington (MN), Huron/Yankton (SD) and Bismarck/Jamestown (ND), serving roughly 2,000+ accounts."}
+  ],
+  "news":[
+    {"date":"2026-01-06","headline":"McQuade Distributing of Bismarck sold to Iowa's Doll Distributing","summary":"President Shannon McQuade-Ely confirmed the 1947-founded Bismarck distributor was sold to Doll effective January 2, 2026, with the McQuade Charity Softball Tournament continuing under new ownership.","source":"KFYR-TV","url":"https://www.kfyrtv.com/2026/01/06/mcquade-distributing-sold-new-ownership/"},
+    {"date":"2026-01-02","headline":"Doll Distributing becomes a four-state distributor","summary":"Doll's acquisition of McQuade (Bismarck) and Valley Sales (Jamestown) moved the company into North Dakota, its fourth state alongside Iowa, Minnesota and South Dakota.","source":"Bismarck Tribune","url":"https://bismarcktribune.com/news/local/business/article_513aae9d-1ca0-4bb5-94a1-b6eca7fcd38c.html"},
+    {"date":"2025-12-17","headline":"Conkling Distributing sells after 80+ years in Yankton","summary":"The Yankton, SD distributor founded by John Conkling in 1939 was sold to Doll Distributing; most staff would stay and sales/delivery would remain similar.","source":"KYNT-AM","url":"https://www.kynt1450.com/2025/12/17/conkling-distributing-sells-after-over-80-years-in-yankton/"},
+    {"date":"2025-12-05","headline":"Doll Distributing expands into South Dakota","summary":"Doll acquired Ellwein Brothers (Huron) and John A. Conkling Distributing (Yankton), establishing its first South Dakota branches and its third state of operation.","source":"Doll Distributing","url":"https://www.dolldistributing.com/about"},
+    {"date":"2024","headline":"'Decide to Ride' earns Iowa Community Engagement award","summary":"Doll's Anheuser-Busch/Uber ride-voucher program won the Governor's Traffic Safety Bureau Community Engagement award; the prior year it helped 250+ people get home safely.","source":"Iowa GTSB","url":"https://oysterlink.com/company-profile/doll-distributing/"},
+    {"date":"2023","headline":"Doll expands Iowa territory with River-to-River craft portfolio","summary":"Building on a 2022 craft acquisition, Doll extended distribution across eastern Iowa, offering a vast craft portfolio spanning the Missouri to the Mississippi River.","source":"Doll Distributing","url":"https://www.dolldistributing.com/about/service-areas"},
+    {"date":"2014-09-22","headline":"Mark Doll named Iowa Restaurant Association Purveyor Partner of the Year","summary":"CEO Mark Doll was recognized as the Iowa Restaurant Association's 2014 Purveyor Partner of the Year for the company's service to on-premise accounts.","source":"Iowa Restaurant Association","url":"https://restaurantiowa.com/2014/09/22/doll-distributings-mark-doll-named-2014-iowa-restaurant-associations-purveyor-partner-of-the-year/"}
+  ],
+  "brands":{
+    "suppliers":["Anheuser-Busch InBev","Pabst Brewing Company","Grain Belt (August Schell Brewing)","Constellation Brands (Modelo/Corona, where applicable)","Independent craft & import brewery partners","Non-alcoholic, energy drink & water suppliers"],
+    "highlights":["Budweiser","Bud Light","Busch / Busch Light","Michelob & Michelob Ultra","Stella Artois","Pabst Blue Ribbon","Grain Belt","Premium & craft beer portfolio (River-to-River, eastern Iowa)","Flavored malt beverages / hard seltzers","Non-alcoholic beverages, energy drinks & water"]
+  },
+  "facilities":[
+    {"name":"Des Moines (Headquarters)","location":"Des Moines, Iowa","note":"Corporate HQ and primary distribution center; established via 2006 Nesbit merger; home of Doll Craft Specialties."},
+    {"name":"Council Bluffs branch","location":"Council Bluffs, Iowa","note":"Original Iowa base (1966, ex-Michaels Distributing); NBWA-certified distributor location."},
+    {"name":"Spencer branch","location":"Spencer, Iowa","note":"Northern-Iowa branch from 2010 Whittenburg/Kabrick acquisitions."},
+    {"name":"Worthington branch","location":"Worthington, Minnesota","note":"Minnesota operation from 2015 Hagen Distributing acquisition; serves 8 Minnesota counties."},
+    {"name":"Huron / Yankton branches","location":"Huron & Yankton, South Dakota","note":"Acquired Dec 5, 2025 (Ellwein Brothers; John A. Conkling Distributing, est. 1939)."},
+    {"name":"Bismarck / Jamestown branches","location":"Bismarck & Jamestown, North Dakota","note":"Acquired Jan 2, 2026 (McQuade Distributing, est. 1947; Valley Sales/Distributing)."}
+  ],
+  "pullQuotes":[
+    {"text":"When my dad sold the business, he just walked out. It was abrupt and we had to learn a lot on our own. With Lauren and the rest of our third generation — Andrew, Gus and George — it's been different. They're all interacting well, communicating, and running the business together.","cite":"Mark Doll, CEO (second generation)"},
+    {"text":"You learn from what other people experience. The more we learn from other families can only help us make ourselves better.","cite":"Lauren Doll-Sheeder (third generation)"}
+  ],
+  "leadership":{
+    "generations":[
+      {"label":"First Generation — Founders","people":[
+        {"role":"Co-Founder","name":"Merlin Doll","meta":"Founded the company in 1965; former Storz Brewing employee who built it from one distributorship. Deceased (2007).","linkedin":"","kind":"founder"},
+        {"role":"Co-Founder","name":"Edith Doll","meta":"Co-founder alongside husband Merlin; the couple sold their home to buy the business. Deceased (1983).","linkedin":"","kind":"founder"}
+      ]},
+      {"label":"Second Generation — Owners (bought 1987)","people":[
+        {"role":"Chief Executive Officer","name":"Mark Doll","meta":"CEO; 2014 Iowa Restaurant Association Purveyor Partner of the Year.","linkedin":"","kind":"ceo"},
+        {"role":"Vice President","name":"Tami Doll","meta":"Second-generation owner and VP.","linkedin":"https://www.linkedin.com/in/tami-doll-5a765620/","kind":""},
+        {"role":"Owner / Second Generation","name":"Jeff Doll","meta":"Among the five siblings who purchased the company in 1987.","linkedin":"","kind":""},
+        {"role":"Owner / Second Generation","name":"Scott Doll","meta":"Among the five siblings who purchased the company in 1987.","linkedin":"","kind":""},
+        {"role":"Owner / Second Generation","name":"Jay Doll","meta":"Among the five siblings who purchased the company in 1987.","linkedin":"","kind":""}
+      ]},
+      {"label":"Third Generation — Rising leaders","people":[
+        {"role":"Third Generation","name":"Lauren Doll-Sheeder","meta":"Leading the third generation's entry; active in family-business succession programs.","linkedin":"https://www.linkedin.com/in/lauren-doll-sheeder-3b977052/","kind":""},
+        {"role":"Third Generation","name":"Andrew Doll","meta":"Third-generation family member in the business.","linkedin":"","kind":""},
+        {"role":"Third Generation","name":"George Doll","meta":"Third-generation family member in the business.","linkedin":"","kind":""},
+        {"role":"Third Generation","name":"Gus Doll","meta":"Third-generation family member in the business.","linkedin":"","kind":""}
+      ]}
+    ],
+    "executives":[
+      {"role":"Chief Financial Officer","name":"Joe Grace","meta":"CFO; oversees financial management across the four-state operation.","linkedin":""}
+    ]
+  },
+  "flags":[
+    {"type":"Data discrepancy","severity":"LOW","description":"Employee count varies by source: Doll's own site states ~480 team members (post-Dakotas expansion), while third-party aggregators list ~185. The company figure is treated as authoritative.","source":"https://www.dolldistributing.com/about"},
+    {"type":"Revenue uncertainty","severity":"LOW","description":"A third-party site lists ~$51.5M annual revenue, but this predates/understates the 2025-2026 four-state expansion and is unverified by the company.","source":"https://www.zoominfo.com/c/doll-distributing-llc/36638611"}
+  ],
+  "sources":[
+    {"label":"Doll Distributing — About / company history","url":"https://www.dolldistributing.com/about"},
+    {"label":"Doll Distributing — homepage (tagline, mission)","url":"https://www.dolldistributing.com/"},
+    {"label":"Doll Distributing — Service Areas","url":"https://www.dolldistributing.com/about/service-areas"},
+    {"label":"Doll Distributing — Doll Craft Specialties","url":"https://www.dolldistributing.com/about/doll-craft"},
+    {"label":"The Org — Doll Distributing leadership team","url":"https://theorg.com/org/doll-distributing-llc/teams/leadership-team"},
+    {"label":"UNI Family Business Center — Doll legacy profile","url":"https://unifamilybusinesscenter.com/announcements/doll-distributing-legacy-success-heart-iowa"},
+    {"label":"KFYR-TV — McQuade Distributing sold to Doll (Jan 2026)","url":"https://www.kfyrtv.com/2026/01/06/mcquade-distributing-sold-new-ownership/"},
+    {"label":"Bismarck Tribune — McQuade sold to Iowa's Doll","url":"https://bismarcktribune.com/news/local/business/article_513aae9d-1ca0-4bb5-94a1-b6eca7fcd38c.html"},
+    {"label":"KYNT-AM — Conkling Distributing sells after 80+ years","url":"https://www.kynt1450.com/2025/12/17/conkling-distributing-sells-after-over-80-years-in-yankton/"},
+    {"label":"Iowa Restaurant Association — Mark Doll Purveyor Partner 2014","url":"https://restaurantiowa.com/2014/09/22/doll-distributings-mark-doll-named-2014-iowa-restaurant-associations-purveyor-partner-of-the-year/"},
+    {"label":"OysterLink — Doll Distributing company profile","url":"https://oysterlink.com/company-profile/doll-distributing/"},
+    {"label":"Business Record — Doll Distributing: A Legacy of Success","url":"https://www.businessrecord.com/doll-distributing-a-legacy-of-success-in-the-heart-of-iowa/"}
+  ]
+}
